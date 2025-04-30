@@ -64,4 +64,4 @@ searchBtn.addEventListener('click', () => {
     if (city !== "") {
         checkWeather(city);
     }
-});
+})
